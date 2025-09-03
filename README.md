@@ -85,9 +85,8 @@ cp .env.example .env
 ```
 
 👨‍💻 Autor
-Facundo Acosta
-Científico de Datos Junior
-🔗 LinkedIn
-📧 Email
+**Facundo Acosta**  
+Científico de Datos Junior  
+[🔗 LinkedIn](https://www.linkedin.com/in/facundo-acosta-marketing/)  
 
-Proyecto desarrollado como parte del Bootcamp de Data Science de Henry
+*Proyecto desarrollado como parte del Bootcamp de Data Science de Henry*
