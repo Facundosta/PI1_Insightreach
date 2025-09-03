@@ -54,23 +54,23 @@
 └── README.md           # Documentación principal
 
 ## 🧪 Reproducibilidad
-    Todos los notebooks tienen semillas aleatorias fijadas para garantizar resultados consistentes.
-    Librerías utilizadas están versionadas en requirements.txt.
-    Variables sensibles están gestionadas mediante .env (no se suben al repo).
+    - Todos los notebooks tienen semillas aleatorias fijadas para garantizar resultados consistentes.
+    - Librerías utilizadas están versionadas en requirements.txt.
+    - Variables sensibles están gestionadas mediante .env (no se suben al repo).
 
 ## 📈 Resultados Clave
-    Limpieza y transformación de datos provenientes de múltiples fuentes.
-    Conexión a la API de Yelp para enriquecer el dataset.
-    Análisis exploratorio de datos (EDA) con gráficos y estadísticas.
-    Modelado predictivo para estimar gasto promedio por cliente.
-    Sistema de recomendación basado en similitud de preferencias.
+    - Limpieza y transformación de datos provenientes de múltiples fuentes.
+    - Conexión a la API de Yelp para enriquecer el dataset.
+    - Análisis exploratorio de datos (EDA) con gráficos y estadísticas.
+    - Modelado predictivo para estimar gasto promedio por cliente.
+    - Sistema de recomendación basado en similitud de preferencias.
 
 ## 🚀 Próximos Pasos
-    Despliegue del modelo en API (Flask/FastAPI).
-    Integración con CRM para automatización de campañas.
-    Sistema de feedback para mejorar recomendaciones.
-    Monitoreo continuo de desempeño del modelo.
-    Expansión a otras ciudades.
+    - Despliegue del modelo en API (Flask/FastAPI).
+    - Integración con CRM para automatización de campañas.
+    - Sistema de feedback para mejorar recomendaciones.
+    - Monitoreo continuo de desempeño del modelo.
+    - Expansión a otras ciudades.
 
 ## 👤 Autor
     Facundo Acosta
