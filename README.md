@@ -49,38 +49,34 @@ pip install -r requirements.txt
 # Configurar variables de entorno
 cp .env.example .env
 # Editar .env con tus credenciales API
+```
+
 🛠️ Stack Tecnológico
-Lenguaje: Python 3.9+
-
-Análisis de Datos: Pandas, NumPy
-
-Visualización: Matplotlib, Seaborn
-
-ML & Modelado: Scikit-learn, XGBoost
-
-APIs: Requests, Yelp Fusion API
-
-Entorno: Jupyter Notebook
+```bash
+- Lenguaje: Python 3.9+
+- Análisis de Datos: Pandas, NumPy
+- Visualización: Matplotlib, Seaborn
+- ML & Modelado: Scikit-learn, XGBoost
+- APIs: Requests, Yelp Fusion API
+- Entorno: Jupyter Notebook
+```
 
 📋 Metodología
-EDA Completo: Limpieza y análisis exploratorio de datos de clientes
-
-Integración API Yelp: Obtención de 200 negocios de Miami
-
-Modelado Predictivo: Regresión para predecir gasto promedio
-
-Sistema de Recomendación: Cosine similarity basado en preferencias
-
-Análisis Estratégico: Brechas oferta-demanda y segmentación
+```
+- EDA Completo: Limpieza y análisis exploratorio de datos de clientes
+- Integración API Yelp: Obtención de 200 negocios de Miami
+- Modelado Predictivo: Regresión para predecir gasto promedio
+- Sistema de Recomendación: Cosine similarity basado en preferencias
+- Análisis Estratégico: Brechas oferta-demanda y segmentación
+```
 
 🚀 Próximos Pasos
-Despliegue del modelo como API (FastAPI)
-
-Integración con sistema CRM existente
-
-Dashboard interactivo para monitoreo
-
-Expansión a otras ciudades (NY, LA)
+```
+- Despliegue del modelo como API (FastAPI)
+- Integración con sistema CRM existente
+- Dashboard interactivo para monitoreo
+- Expansión a otras ciudades (NY, LA)
+```
 
 👨‍💻 Autor
 Facundo Acosta
