@@ -26,10 +26,10 @@
      cd insightreach
   2. Crear entorno virtual e instalar dependencias:
      python -m venv .venv
-        # Activar entorno:
-        # macOS/Linux
+        ## Activar entorno:
+        ## macOS/Linux
         source .venv/bin/activate
-        # Windows (PowerShell)
+        ## Windows (PowerShell)
         .venv\Scripts\Activate.ps1
     
         pip install -r requirements.txt
