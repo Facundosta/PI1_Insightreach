@@ -22,10 +22,12 @@ Notebooks:
 - Avance_2_API_YELP_Facundo_Acosta_v11.ipynb
 - Avance_3_Analisis_Final_Facundo_Acosta_v11.ipynb
 
-Data:
+Datasets:
+Input:
 - base_datos_restaurantes_USA_v2.csv
-- clientes_miami_clean.csv
-- yelp_miami_limpio_[timestamp].csv
+Output (Auto-generados):
+- clientes_miami_clean.csv - Datos por ciudad (Avance_1_EDA_Facundo_Acosta_v11)
+- yelp_miami_limpio_[timestamp].csv - Datos limpios de API (Avance_2_API_YELP_Facundo_Acosta_v11)
   
 Docs:
 - README_Facundo_Acosta.pdf
