@@ -75,4 +75,4 @@
 ## 👤 Autor
     Facundo Acosta
     Científico de Datos Junior
-  [LinkedIn](#https://www.linkedin.com/in/facundo-acosta-marketing/)
+[LinkedIn](#https://www.linkedin.com/in/facundo-acosta-marketing/)
