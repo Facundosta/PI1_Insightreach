@@ -15,21 +15,25 @@ Análisis integral de datos de clientes y negocios para optimizar estrategias de
 - **🤖 Recomendaciones**: Sistema de recomendación personalizada con 85% de precisión
 
 ## 🏗️ Estructura del Proyecto
-ProyectoM1_Facundo_Acosta/
-├── notebooks/
-│ ├── Avance_1_EDA_Facundo_Acosta_v11.ipynb
-│ ├── Avance_2_API_YELP_Facundo_Acosta_v11.ipynb
-│ └── Avance_3_Analisis_Final_Facundo_Acosta_v11.ipynb
-├── data/
-│ ├── base_datos_restaurantes_USA_v2.csv
-│ ├── clientes_miami_clean.csv
-│ └── yelp_miami_limpio_[timestamp].csv
-├── docs/
-│ ├── README_Facundo_Acosta.pdf
-│ └── Recommendations_Facundo_Acosta.pdf
-├── requirements.txt
-├── .env.example
-└── README.md
+```bash
+PI1_Insightreach/
+Notebooks:
+- Avance_1_EDA_Facundo_Acosta_v11.ipynb
+- Avance_2_API_YELP_Facundo_Acosta_v11.ipynb
+- Avance_3_Analisis_Final_Facundo_Acosta_v11.ipynb
+
+Data:
+- base_datos_restaurantes_USA_v2.csv
+- clientes_miami_clean.csv
+- yelp_miami_limpio_[timestamp].csv
+  
+Docs:
+- README_Facundo_Acosta.pdf
+- Recommendations_Facundo_Acosta.pdf
+- requirements.txt
+- .env.example
+- README.md
+```
 
 ## ⚙️ Instalación Rápida
 
