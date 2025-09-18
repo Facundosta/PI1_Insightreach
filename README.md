@@ -1,20 +1,20 @@
-# 🎯 InsightReach — Análisis 360° de Clientes
+# InsightReach — 360° Customer Analysis
 
-**Proyecto Integrador M1 - Data Science**  
-*Facundo Acosta - Científico de Datos Junior*
+**Module 1 Capstone Project - Data Science**
+*Facundo Acosta - Junior Data Scientist*
 
-Análisis integral de datos de clientes y negocios para optimizar estrategias de marketing segmentado mediante EDA, integración con API Yelp y modelado predictivo.
+Comprehensive analysis of customer and business data to optimize targeted marketing strategies through EDA, Yelp API integration, and predictive modeling.
 
 ---
 
-## 📊 Resultados Destacados
+## Key Results
 
-- **📈 Modelo Predictivo**: XGBoost con R² = 0.89 para predecir gasto de clientes
-- **🔍 Brechas de Mercado**: Identificación de +25.3% de demanda insatisfecha en mariscos
-- **🎯 Segmentación**: 3,186 clientes analizados por estrato socioeconómico y preferencias
-- **🤖 Recomendaciones**: Sistema de recomendación personalizada con 85% de precisión
+- **Predictive Model**: XGBoost with R² = 0.89 for predicting customer spending
+- **Market Gaps**: Identification of +25.3% unmet demand in seafood
+- **Segmentation**: 3,186 customers analyzed by socioeconomic stratum and preferences
+- **Recommendations**: Personalized recommendation system with 85% accuracy
 
-## 🏗️ Estructura del Proyecto
+## 🏗Project Structure
 ```bash
 PI1_Insightreach/
 Notebooks:
@@ -25,9 +25,9 @@ Notebooks:
 Datasets:
 Input:
 - base_datos_restaurantes_USA_v2.csv
-Output (Auto-generados):
-- clientes_miami_clean.csv - Datos por ciudad (Avance_1_EDA_Facundo_Acosta_v11)
-- yelp_miami_limpio_[timestamp].csv - Datos limpios de API (Avance_2_API_YELP_Facundo_Acosta_v11)
+Output (Auto-generated):
+- clientes_miami_clean.csv - Data by city (Avance_1_EDA_Facundo_Acosta_v11)
+- yelp_miami_limpio_[timestamp].csv - Cleaned API data (Avance_2_API_YELP_Facundo_Acosta_v11)
   
 Docs:
 - README_Facundo_Acosta.pdf
@@ -37,56 +37,56 @@ Docs:
 - README.md
 ```
 
-## ⚙️ Instalación Rápida
+## Quick Installation
 
 ```bash
-# Clonar repositorio
+# Clone repository
 git clone https://github.com/Facundosta/InsightReach-360.git
 cd InsightReach-360
 
-# Crear entorno virtual
+# Create virtual environment
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
 # .venv\Scripts\activate  # Windows
 
-# Instalar dependencias
+# Install dependencies
 pip install -r requirements.txt
 
-# Configurar variables de entorno
+# Configure environment variables
 cp .env.example .env
-# Editar .env con tus credenciales API
+# Edit .env with your API credentials
 ```
 
-🛠️ Stack Tecnológico
+## Tech Stack
 ```bash
-- Lenguaje: Python 3.9+
-- Análisis de Datos: Pandas, NumPy
-- Visualización: Matplotlib, Seaborn
-- ML & Modelado: Scikit-learn, XGBoost
+- Language: Python 3.9+
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- ML & Modeling: Scikit-learn, XGBoost
 - APIs: Requests, Yelp Fusion API
-- Entorno: Jupyter Notebook
+- Environment: Jupyter Notebook
 ```
 
-📋 Metodología
+## Methodology
 ```
-- EDA Completo: Limpieza y análisis exploratorio de datos de clientes
-- Integración API Yelp: Obtención de 200 negocios de Miami
-- Modelado Predictivo: Regresión para predecir gasto promedio
-- Sistema de Recomendación: Cosine similarity basado en preferencias
-- Análisis Estratégico: Brechas oferta-demanda y segmentación
-```
-
-🚀 Próximos Pasos
-```
-- Despliegue del modelo como API (FastAPI)
-- Integración con sistema CRM existente
-- Dashboard interactivo para monitoreo
-- Expansión a otras ciudades (NY, LA)
+- Complete EDA: Cleaning and exploratory analysis of customer data
+- Yelp API Integration: Obtained 200 businesses from Miami
+- Predictive Modeling: Regression to predict average spending
+- Recommendation System: Cosine similarity based on preferences
+- Strategic Analysis: Supply-demand gaps and segmentation
 ```
 
-👨‍💻 Autor
+## Next Steps
+```
+- Model deployment as an API (FastAPI)
+- Integration with existing CRM system
+- Interactive monitoring dashboard
+- Expansion to other cities (NY, LA)
+```
+
+👨‍💻 Author
 **Facundo Acosta**  
-Científico de Datos Junior  
+Junior Data Scientist 
 [🔗 LinkedIn](https://www.linkedin.com/in/facundo-acosta-marketing/)  
 
-*Proyecto desarrollado como parte del Bootcamp de Data Science de Henry*
+*Project developed as part of the Henry Data Science Bootcamp*
