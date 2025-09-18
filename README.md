@@ -14,7 +14,7 @@ Comprehensive analysis of customer and business data to optimize targeted market
 - **Segmentation**: 3,186 customers analyzed by socioeconomic stratum and preferences
 - **Recommendations**: Personalized recommendation system with 85% accuracy
 
-## 6Project Structure
+## Project Structure
 ```bash
 PI1_Insightreach/
 Notebooks:
